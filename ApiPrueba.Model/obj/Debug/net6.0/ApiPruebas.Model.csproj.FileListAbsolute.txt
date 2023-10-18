@@ -1,0 +1,11 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\bin\Debug\net6.0\ApiPruebas.Model.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\bin\Debug\net6.0\ApiPruebas.Model.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\bin\Debug\net6.0\ApiPruebas.Model.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\refint\ApiPruebas.Model.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ApiPruebas.Model.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiPrueba.Model\obj\Debug\net6.0\ref\ApiPruebas.Model.dll

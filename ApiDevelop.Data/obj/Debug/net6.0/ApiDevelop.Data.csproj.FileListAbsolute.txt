@@ -1,0 +1,17 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Data.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Data.runtimeconfig.json
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Domain.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\bin\Debug\net6.0\ApiDevelop.Domain.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.csproj.AssemblyReference.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.csproj.CopyComplete
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\refint\ApiDevelop.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ApiDevelop.Data.genruntimeconfig.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Data\obj\Debug\net6.0\ref\ApiDevelop.Data.dll

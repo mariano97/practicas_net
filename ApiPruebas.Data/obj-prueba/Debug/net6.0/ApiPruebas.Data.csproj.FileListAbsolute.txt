@@ -1,0 +1,15 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\bin\Debug\net6.0\ApiPruebas.Data.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\bin\Debug\net6.0\ApiPruebas.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\bin\Debug\net6.0\ApiPruebas.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\bin\Debug\net6.0\ApiPruebas.Model.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\bin\Debug\net6.0\ApiPruebas.Model.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.csproj.AssemblyReference.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.csproj.CopyComplete
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\refint\ApiPruebas.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ApiPruebas.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiPruebas.Data\obj\Debug\net6.0\ref\ApiPruebas.Data.dll

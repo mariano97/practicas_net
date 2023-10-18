@@ -1,0 +1,11 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\bin\Debug\net6.0\ApiDevelop.Domain.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\bin\Debug\net6.0\ApiDevelop.Domain.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\bin\Debug\net6.0\ApiDevelop.Domain.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\refint\ApiDevelop.Domain.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ApiDevelop.Domain.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiDevelop.Domain\obj\Debug\net6.0\ref\ApiDevelop.Domain.dll

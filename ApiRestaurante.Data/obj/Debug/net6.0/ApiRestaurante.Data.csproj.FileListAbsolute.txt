@@ -1,0 +1,14 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\bin\Debug\net6.0\ApiRestaurante.Data.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\bin\Debug\net6.0\ApiRestaurante.Data.runtimeconfig.json
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\bin\Debug\net6.0\ApiRestaurante.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\bin\Debug\net6.0\ApiRestaurante.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.csproj.AssemblyReference.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\refint\ApiRestaurante.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ApiRestaurante.Data.genruntimeconfig.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Data\obj\Debug\net6.0\ref\ApiRestaurante.Data.dll

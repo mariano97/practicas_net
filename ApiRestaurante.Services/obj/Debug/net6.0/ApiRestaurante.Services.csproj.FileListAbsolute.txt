@@ -1,0 +1,17 @@
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Services.deps.json
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Services.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Services.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Data.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Domain.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Domain.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\bin\Debug\net6.0\ApiRestaurante.Data.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.csproj.AssemblyReference.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.AssemblyInfoInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.AssemblyInfo.cs
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.csproj.CoreCompileInputs.cache
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.csproj.CopyComplete
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\refint\ApiRestaurante.Services.dll
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ApiRestaurante.Services.pdb
+C:\Users\mario.serrano\projects\visualStudio\ApiRestaurante.Services\obj\Debug\net6.0\ref\ApiRestaurante.Services.dll
